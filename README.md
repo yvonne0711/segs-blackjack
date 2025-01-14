@@ -5,7 +5,7 @@
 - [Usage](#usage)
 
 ## Installation
-Install Node.js on your local machine. Clone this repository on your local machine then open up the project in your code editor. In the terminal, navigate to the project directory if jest isn't a dev dependency already, install the JavaScript testing framework, jest, by using the command `npm install --save-dev jest` for dev dependencies for testing. Alternatively, use the command `npm i` to install all the dependencies which are already in the project.
+Install Node.js on your local machine. Clone this repository on your local machine then open up the project in your code editor. In the terminal, navigate to the project directory, if jest isn't a dev dependency already, install the JavaScript testing framework, jest, by using the command `npm install --save-dev jest` in the terminal for dev dependencies for testing. Alternatively, use the command `npm i` to install all the dependencies which are already in the project.
 
 ## Usage
 The task is to pass our unit tests. In your `package.json`, make sure you have this:
